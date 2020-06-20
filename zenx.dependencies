@@ -1,0 +1,23 @@
+[ 
+  { 
+    "remote": "github", 
+    "repository": "G-H-O-5-T/android_kernel_xiaomi_mido", 
+    "target_path": "kernel/xiaomi/mido", 
+    "branch": "3.18"
+  },
+
+  {
+    "remote": "github",
+    "repository": "G-H-O-5-T/device_xiaomi_mido_ZenX",
+    "target_path" : "device/xiaomi/mido",
+    "branch": "3.18"
+  },
+
+  {
+   "remote": "github",
+   "repository": "G-H-O-5-T/vendor_xiaomi_mido",
+   "target_path" : "vendor/xiaomi",
+   "branch": "3.18"
+  }
+]
+
